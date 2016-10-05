@@ -1,0 +1,8 @@
+[package]
+name = "gitop"
+version = "0.1.0"
+authors = ["Marc de Palol <marc.depalol@schibsted.com>"]
+
+[dependencies]
+
+git2 = "0.4.4"
